@@ -7,4 +7,4 @@
 
 give it a try. i promise you won't regret.
 
-<u>link</u> : https://www.procast.vercel.app/
+<u>link</u> : https://www.procaster.vercel.app/
